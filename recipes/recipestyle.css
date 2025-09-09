@@ -1,0 +1,23 @@
+img {
+    height: auto;
+    width: 400px;
+}
+
+body {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    background-color: bisque;
+}
+ h1 {
+    font-size: 48px;
+    font-family: "Courier New";
+ }
+ p, 
+ a,
+ li {
+    font-size: 18px;
+ }
+ li {
+    margin: 3px;
+ }
